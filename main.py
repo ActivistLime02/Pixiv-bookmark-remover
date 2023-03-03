@@ -14,6 +14,6 @@ count = 0
 for link in list_of_links :
 	count += 1
 	webbrowser.open(link)
-	if count >= 10 :
+	if count >= 20 :
 		count = 0
 		input("Press enter to open up another 10 tabs")
