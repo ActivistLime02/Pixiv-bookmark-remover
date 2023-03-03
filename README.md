@@ -5,7 +5,7 @@ This script has been tested on Linux but should work with all operating systems.
 ## How to use
 In a text file you put post id's of the image you want to delete. One post id per line.
 The highlighted part is the post id.
-https://www.pixiv.net/en/artworks/`87749466`
+> pixiv.net/en/artworks/`87749466`
 
 When ready start the script with
 ```
